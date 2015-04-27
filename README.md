@@ -6,4 +6,4 @@ If you're using the program in the current year (till 1393), just use the comman
 ![alt ExampleOutput](https://raw.githubusercontent.com/mtp1376/nahaeiCatcher/master/example.png)
 
 - The output directory is `files` folder.
-* Speial thanks to @mrkalan for his contribution.
+* Special thanks to @mrkalan for his contribution.
