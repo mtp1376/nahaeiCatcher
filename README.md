@@ -6,4 +6,8 @@ If you're using the program in the current year (till 1393), just use the comman
 ![alt ExampleOutput](https://raw.githubusercontent.com/mtp1376/nahaeiCatcher/master/example.png)
 
 - The output directory is `files` folder.
+
+## customization
+Right now, it's gathering data for Mathematis & Physics major, but you can change `links.in`, and put other majors' datas in order to make it work for the others. (file format is JSON and easy-to-edit)
+
 * Special thanks to @mrkalan for his contribution.
