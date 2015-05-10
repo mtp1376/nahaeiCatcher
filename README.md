@@ -10,4 +10,4 @@ If you're using the program in the current year (till 1393), just use the comman
 ## customization
 Right now, it's gathering data for Mathematics & Physics major, but you can change `links.in`, and put other majors' datas in order to make it work for the others. (file format is [JSON](http://en.wikipedia.org/wiki/JSON) and easy-to-edit)
 
-* Special thanks to [@mrkalan](https://github.com/mrkalan) for his contribution.
+* Special thanks to [@mrkalan](https://github.com/mrkalan), [@sinabakh](https://github.com/sinabakh) for their contributions.
